@@ -1,0 +1,1 @@
+1. Add "build": "vite build" in scripts of Package.json File..
